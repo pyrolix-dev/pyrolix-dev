@@ -38,7 +38,7 @@
 <h2>🛠 Texnologiyalar</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,github,termux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,github,php,vscode&theme=dark" />
 </p>
 
 ---
